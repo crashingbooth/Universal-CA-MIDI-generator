@@ -1,0 +1,14 @@
+define the midi window, create menu window to map cells to midi notes
+- create a spinbox for autoselecting scale mappings (pentatonic, pelong, blues scale, whole tone, chromatic)
+- but custom mapping should be possible too
+- superclass (sublass for one state, muliple states)
+- store state data in list of lists 
+- gui has a method for drawing midi window onto display
+- have a method to derive midi notes from list and note_seqs which can be rendered and exported as midi files
+implement the export to midi
+implement load and save states (need rules, isCyclic, width, length, first_line, !midi_mapping)
+!!!!make a rule change schedule
+bind arrow keys to move midi window
+
+make five neighbor 2 state:
+make n-state, 
