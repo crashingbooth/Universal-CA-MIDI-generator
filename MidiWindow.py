@@ -1,4 +1,4 @@
-from Tkinter import *
+from tkinter import *
 from pyknon.music import Note, Rest, NoteSeq
 from pyknon.genmidi import Midi
 from UniversalCA import UniversalCA, ElementaryCA, ElementaryCARules

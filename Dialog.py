@@ -1,6 +1,6 @@
-from Tkinter import *
+from tkinter import *
 import os
-import tkMessageBox
+from tkinter import messagebox
 from MidiWindow import TwoStateMidiWindow, MidiWindow, SCALES
 from Schedule import Schedule
 

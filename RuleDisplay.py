@@ -1,4 +1,4 @@
-from Tkinter import *
+from tkinter import *
 from UniversalCA import UniversalCA, ElementaryCA, ElementaryCARules
 COLOURS = ['black', 'blue']
 HEIGHT = 600

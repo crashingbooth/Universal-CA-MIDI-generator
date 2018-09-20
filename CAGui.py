@@ -1,6 +1,6 @@
-from Tkinter import *
-import tkMessageBox
-import tkFileDialog
+from tkinter import *
+from tkinter import messagebox
+from tkinter import filedialog
 import pickle
 from UniversalCA import UniversalCA, ElementaryCA, ElementaryCARules
 from Dialog import Dialog, select_first_line_dialog, change_size, set_mw_details_dialog, set_midi_mapping_dialog, Schedule_dialog
